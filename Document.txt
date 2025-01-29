@@ -1,0 +1,1 @@
+Git to system kontroli wersji, który powstał w 2005 roku z zamiarem pełnienia funkcji narzędzia wspomagającego rozwój jądra Linux.
