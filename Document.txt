@@ -1,1 +1,2 @@
-Git to system kontroli wersji, który powstał w 2005 roku z zamiarem pełnienia funkcji narzędzia wspomagającego rozwój jądra Linux.
+Git to system kontroli wersji, który powstał w 2005 roku z zamiarem pełnienia funkcji narzędzia wspomagającego rozwój jądra Linux. 
+Git jest systemem pomagającym zapisywać przez programistów wszystkie zmiany w pisanym kodzie w taki sposób, aby czego nie stracili. Dzięki temu programista może w dowolnej chwili wrócić do poprzedniej wersji. System Git pozwala śledzić to, jak program się rozwijał, odzyskać przypadkowo utracone zmiany, a nawet powrócić do wcześniejszych pomysłów.
